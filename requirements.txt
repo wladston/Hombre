@@ -1,0 +1,5 @@
+IMDbPY==5.0
+python-dateutil==2.4.2
+rdflib==4.2.0
+rdflib-jsonld==0.3
+SPARQLWrapper==1.6.4
