@@ -66,4 +66,4 @@ keep things simple and fast. Later on the sky is the limit, we can create parser
 for every dataset out there.
 
 ## License
-© 2015/07 Wladston Viana (wladston@wladston.net) under the BSD License.
+© 2015/07 Wladston Ferreira Filho under the BSD License.
